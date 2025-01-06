@@ -1,5 +1,5 @@
-# SUPRIYA PRABHU
-# 24001111
+# Name: SUPRIYA PRABHU
+# Reg no: 24001111
 
 # EXPERIMENT NO 5 Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
